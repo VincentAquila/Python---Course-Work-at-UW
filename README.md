@@ -1,0 +1,4 @@
+# Python_course_work_University_of_Washington
+These are some projects from python courses at the University of Washington.
+
+The final project python file was the end-of-course project in class 1 of 5, at the University of Washington's python certificate program.  This was an exciting time, as I had just started to learn programing.  This program is a simple tracker where one can enter locations they must go to, and the time at each location.  Interested in artificial intelligence, I wanted to add a chat bot, or a personal assistant to the program.  It is not true AI, but only a random generator function as to how the chat bot interacts with the user.  Still, it was a first.  The program needs some work, especially in the hours calculation function, but I have left that as is, as a sort of bench-mark in time.  In the future, I will re-develop this program into something more along the lines of a bug tracker as a business tool. 
